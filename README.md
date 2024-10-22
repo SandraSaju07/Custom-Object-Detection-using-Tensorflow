@@ -6,7 +6,7 @@ This repository contains code and instructions to train a custom object detectio
 ## Courtesy
 You can also find the official TensorFlow Object Detection API documentation and tutorial here:
 
-- [Official TensorFlow Object Detection API Tutorial](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html).
+- [Official TensorFlow Object Detection API Tutorial](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html)
 
 ## Contributing
 Feel free to fork this repository and contribute by submitting a pull request. Any improvements or bug fixes are welcome!
